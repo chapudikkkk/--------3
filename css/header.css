@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 30px;
+  margin-bottom: 40px;
+}
+
+.logo {
+  font-family: "Iosevka Charon Mono", monospace;
+  font-size: 26px;
+  font-weight: bold;
+}

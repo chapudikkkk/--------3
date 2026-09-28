@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  gap: 15px;
+}
+
+.nav a {
+  font-family: "Iosevka Charon Mono", monospace;
+  font-size: 13px;
+  color: #ffffff;
+  
+}
+
+.nav a:hover {
+  opacity: 0.7;
+}
